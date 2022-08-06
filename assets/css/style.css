@@ -288,6 +288,13 @@ footer {
         display: none;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0px;
+    }
+
     /* for media screens max-width 950px and down */
 
     
