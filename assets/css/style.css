@@ -314,7 +314,7 @@ footer {
 
 /* for larger to medium screens from 1200px and down */
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) { 
     #club-clearethos {
         width: 65%;
         height: 1200px;
@@ -351,6 +351,7 @@ footer {
         padding: 0px;
     }
 
+    }
     /* for media screens max-width 950px and down */
 
 
@@ -362,8 +363,6 @@ footer {
             margin-bottom: 20px;
             line-height: 25px;
         }
-
-    }
 
     #cover-text {
         left: 0;
@@ -395,6 +394,7 @@ footer {
     #photos {
         column-count: 3;
     }
+}
 
     /* for screens 800px and down */
 
